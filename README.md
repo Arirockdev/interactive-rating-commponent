@@ -9,7 +9,7 @@
 ## Welcome! 👋
 
 
-  This is the link for the challenge deploy.
+  This is the [Link](https://my-interactive-rating-component-main.netlify.app/) for the challenge deploy.
 
 
 
