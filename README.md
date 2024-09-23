@@ -31,7 +31,7 @@ If you want to try this app
 1- clone de repo
 
 ```bash
-git clone https://github.com/Arirockdev/advice-generator-app-main.git
+git clone https://github.com/Arirockdev/interactive-rating-commponent.git
 ```
 
 2- open the `index.html` file in your browser 
